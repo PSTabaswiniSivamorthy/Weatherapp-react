@@ -46,7 +46,7 @@ function App() {
           Get report ⚡
         </button>
         <p>
-          Degree:{degree} | City: {city} | Weather :{weather}
+          Degree: {degree} | City: {city} | Weather: {weather}
         </p>
       </div>
     </div>
