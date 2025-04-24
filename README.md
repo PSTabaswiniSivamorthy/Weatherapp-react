@@ -41,5 +41,4 @@ Create a `.env` file in the root directory and add your API key:
 
 ▶️ Run the app
      npm start
-     Open [http://localhost:3000](http://localhost:3000) in your browser.
-=
+
